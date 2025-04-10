@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Gautam</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://github.com/user-attachments/assets/fa12ee32-d9e8-41c0-9af6-3be21bd9ba86">
+<img align="right"alt="coding"width="400"src="https://github.com/user-attachments/assets/abe21c3f-f396-49a7-b5b3-232ab341608e">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan8960563&label=Profile%20views&color=0e75b6&style=flat" alt="aryan8960563" /> </p>
 - 👯 I’m currently learning *Java*
 
